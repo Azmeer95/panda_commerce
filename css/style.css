@@ -59,5 +59,25 @@
 /* Styling card decks */
 .card {
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer {
+    background-color:  #fff;
+    border-top: none;
+}
+
+/* Contact us styling */
+#contact_us {
+    height: 300px;
+}
+
+#contact_us h6 {
+    color: gray;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
 }
