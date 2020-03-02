@@ -55,3 +55,9 @@
 .categories img {
     width: 100px;
 }
+
+/* Styling card decks */
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
