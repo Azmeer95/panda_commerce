@@ -77,7 +77,12 @@
     color: gray;
 }
 
+.form-control {
+    margin-top: 30px;
+}
+
 /* Footer styling */
 footer {
     text-align: center;
+    font-size: large;
 }
